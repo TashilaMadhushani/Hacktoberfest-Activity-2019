@@ -1,0 +1,46 @@
+.navitem {
+color: white;
+	/*display: inline-block;*/
+	float: right;
+	text-align:right; 		
+	display: inline-block;
+}
+.navitem:hover {
+		background-color: gray;
+	border-radius: 10px;
+	text-decoration: none;
+
+}
+.nav{
+	float: left;
+	background: #1f4060;
+	width: 100%;
+	color: white;
+text-align:left; 
+display: inline;
+}
+a {	font-weight: bold;
+	text-decoration: none;
+	color:black;
+	margin: 10px;	 
+	color: white;
+	/*text-align:right;*/
+}
+div.b {
+width: 75%;
+height: 100%;
+background-color: white;
+font-size: 20;
+}
+
+table{
+	padding: 10px;
+	column-width:50px;	 
+}
+div.c {
+	width:20%;
+	height:100%;
+	float: right;
+	background-color: white;
+	display: block;
+}
